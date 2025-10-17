@@ -3,19 +3,18 @@
 @namespace github.com/artilate/youtube
 @homepageURL https://github.com/artilate/youtube
 @version 1.5
-
 @updateURL https://github.com/artilate/youtube/raw/main/RosePineYoutube.user.css
 @description Soho vibes for YouTube
 @author artilate
 @license GNU-V3.0
-
 @preprocessor stylus
+==/UserStyle== */
 
-/* @var select stylus-deepdark-style "Preset themes" [
+@var select stylus-deepdark-style "Preset themes" [
 	"Rose-Pine",
 	"Rose-Pine-Moon",
-	"Rose-Pine-Dawn",
-] */
+	"Rose-Pine-Dawn"
+]
 
 @var select mainColorDark "Custom Dark accent color" [
 	"Love",
