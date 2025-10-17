@@ -11,26 +11,26 @@
 ==/UserStyle== */
 
 @var select stylus-deepdark-style "Preset themes" [
-	"Rose-Pine",
-	"Rose-Pine-Moon",
+	"Rose-Pine"
+	"Rose-Pine-Moon"
 	"Rose-Pine-Dawn"
 ]
 
 @var select mainColorDark "Custom Dark accent color" [
-	"Love",
-	"Gold",
-	"Rose",
-	"Pine",
-	"Foam",
+	"Love"
+	"Gold"
+	"Rose"
+	"Pine"
+	"Foam"
 	"Iris"
 ]
 
 @var select mainColorDawn "Custom Dawn accent color" [
-	"Love",
-	"Gold",
-	"Rose",
-	"Pine",
-	"Foam",
+	"Love"
+	"Gold"
+	"Rose"
+	"Pine"
+	"Foam"
 	"Iris"
 ]
 @var checkbox join-color "Use dark join button" 0
