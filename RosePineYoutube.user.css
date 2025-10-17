@@ -23,7 +23,7 @@
 	"Rose",
 	"Pine",
 	"Foam",
-	"Iris",
+	"Iris"
 ]
 
 @var select mainColorDawn "Custom Dawn accent color" [
@@ -32,7 +32,7 @@
 	"Rose",
 	"Pine",
 	"Foam",
-	"Iris",
+	"Iris"
 ]
 @var checkbox join-color "Use dark join button" 0
 @var checkbox subscribe-color "Use dark subscribe button" 0
